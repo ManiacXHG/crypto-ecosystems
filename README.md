@@ -262,7 +262,8 @@ tags = [ "Library"]
 [[repo]]
 url = "https://github.com/platonicsocrates/easya-helpers" # Replace this URL with your repo url
 tags = [ "Library"] # This line is optional
-```_Note: Updated instructions for adding a repository in .toml_
+```
+_Note: Updated instructions for adding a repository in .toml_
 7. Make your PR! ✅
 
 Thank you for contributing and for reading the contribution guide! ❤️
