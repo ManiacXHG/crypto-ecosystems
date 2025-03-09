@@ -264,6 +264,6 @@ url = "https://github.com/platonicsocrates/easya-helpers" # Replace this URL wit
 tags = [ "Library"] # This line is optional
 ```
 7. Make your PR! ✅
-
+_Note: Updated instructions for adding a repository in .toml_
 
 Thank you for contributing and for reading the contribution guide! ❤️
